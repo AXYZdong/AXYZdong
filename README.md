@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AXYZdong
-- 👀 I’m interested in Brain-inspired Computing and Spiking Neuron Networks (SNN)
+- 👀 I’m interested in Brain-inspired Computing and Spiking Neural Networks (SNN)
 - 🌱 I’m currently enrolled as a Master's degree student
 - 💞️ I’m looking to collaborate on SNN
 - 📫 How to reach me: axyzdong@gmail.com
