@@ -5,31 +5,7 @@
 - 📫 I’m always open for academic collaboration to make more creative works. Contact me via axyzdong@gmail.com
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aleafy)](https://git.io/streak-stats)
-  
-  
-<!--
-**Aleafy/Aleafy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AXYZdong&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-Here are some ideas to get you started:
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AXYZdong)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AXYZdong)](https://github.com/ryo-ma/github-profile-trophy)
-<p align = "center">
-  <img src = "https://github-profile-trophy.vercel.app/?username=AXYZdong">
-</p>
-<p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=AXYZdong" style="height: 150%;">
-</p>
-
-<p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=AXYZdong" style="height: 150%;">
-</p>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AXYZdong" style="height: 70%;">  
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=AXYZdong)](https://git.io/streak-stats)
 
 
 <!---
