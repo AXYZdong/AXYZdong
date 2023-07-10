@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Youdong Zhang
+### 👋 Hi, I’m youngton
 - 👀 I’m currently enrolled as a Master's degree student @SEU, majored in EI.
 - 🌱 My research interests include Brain-inspired Computing and Spiking Neural Networks (SNN). 
 - 💞️ My hobbies are riding, running and blogging. Sometimes riding to travel ten thousand miles.
