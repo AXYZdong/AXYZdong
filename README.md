@@ -1,4 +1,4 @@
-### Hi, I’m youngton 👋
+### Hi, I’m Youngton 👋
 - 👀 I’m currently enrolled as a Master's degree student @SEU, majored in EI.
 - 🌱 My research interests include Brain-inspired Computing and Spiking Neural Networks (SNN). 
 - 💞️ My hobbies are riding, running and blogging. Sometimes riding to travel ten thousand miles.
@@ -7,7 +7,7 @@
 ### GitHub Stats 📈
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=AXYZdong&show_icons=true&theme=light" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=AXYZdong&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AXYZdong&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
 </div>
 
