@@ -1,7 +1,7 @@
 ### Hi, I’m Youngton 👋
 - 👀 I’m currently enrolled as a Master's degree student @SEU, majored in EI.
-- 🌱 My research interests include Brain-inspired Computing and Spiking Neural Networks (SNN). 
-- 💞️ My hobbies are riding, running and blogging. Sometimes riding to travel ten thousand miles.
+- 🌱 My research interests include Brain-inspired Computing, Spiking Neural Networks (SNN) and Brain-like Navigation.
+- 💞️ My hobbies are riding, running, travelling and blogging. Reading widely, and travelling far.
 - 📫 I’m always open for academic collaboration to make more creative works. Contact me via axyzdong@gmail.com
 
 ### GitHub Stats 📈
