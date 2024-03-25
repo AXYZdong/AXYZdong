@@ -1,8 +1,10 @@
-### Hi, I’m Youngton 👋
+### Hi, I’m Youngton 👋 
 - 👀 I’m currently enrolled as a Master's degree student @SEU, majored in EI.
 - 🌱 My research interests include Brain-inspired Computing, Spiking Neural Networks (SNN) and Brain-like Navigation.
 - 💞️ My hobbies are riding, running, travelling and blogging. Reading widely, and travelling far.
 - 📫 I’m always open for academic collaboration to make more creative works. Contact me via axyzdong@gmail.com
+
+![](https://komarev.com/ghpvc/?username=AXYZdong&style=for-the-badge)
 
 ### GitHub Stats 📈
 
