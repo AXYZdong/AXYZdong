@@ -1,4 +1,4 @@
-### Hi, I’m Youngton 👋 
+### Hi, I’m Youdon 👋 
 - 👀 I’m currently enrolled as a Master's degree student @SEU, majored in EI.
 - 🌱 My research interests include Brain-inspired Computing, Spiking Neural Networks (SNN) and Brain-like Navigation.
 - 💞️ My hobbies are riding, running, travelling and blogging. Reading widely, and travelling far.
