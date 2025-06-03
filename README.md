@@ -1,6 +1,6 @@
 ### Hi, I’m Youdon 👋 
-- 👀 I’m currently enrolled as a Master's degree student @SEU, majored in EI.
-- 🌱 My research interests include Brain-inspired Computing, Spiking Neural Networks (SNN) and Brain-like Navigation.
+- 👀 I am a PhD student at Southeast University, Nanjing, China.
+- 🌱 My research interests include Brain-inspired Computing, Spiking Neural Networks (SNN) and Brain-inspired Navigation.
 - 💞️ My hobbies are riding, running, travelling and blogging. Reading widely, and travelling far.
 - 📫 I’m always open for academic collaboration to make more creative works. Contact me via axyzdong@gmail.com
 
