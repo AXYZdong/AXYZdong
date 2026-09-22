@@ -2,7 +2,7 @@
 - 👀 I am a PhD student at Southeast University, Nanjing, China.
 - 🌱 My research interests include Brain-inspired Navigation 🤖, Brain-inspired Computing 🧠, Spiking Neural Networks (SNNs) ✨ and Reservoir Computing 🌀.
 - 💞️ My hobbies are riding, running, travelling and blogging. Reading widely, and travelling far.
-- 📫 Contact me via axyzdong@gmail.com or axyzdong@163.com
+- 📫 Contact me via axyzdong [at] gmail [Dot] com or axyzdong [at] 163 [Dot] com  (A brief self-introduction would be appreciated.)
 
 
 <div align="center">
